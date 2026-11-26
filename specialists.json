@@ -1,0 +1,152 @@
+{
+  "interface-design": {
+    "publisher": "Dammyjay93",
+    "source": "https://github.com/Dammyjay93/interface-design/tree/2f9be3206855bcb2d1d0af262c8bae25cba6658d",
+    "goal": "Define product interface hierarchy",
+    "digest": "720b31a31276e899fbe3006a33cbfeaceb77a73ba4c27b80d29afd38c8b7b208"
+  },
+  "better-interface": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review a complete screen",
+    "digest": "e93f1b6e60337ccca0b7caaea9da7cc60ba9dd86b08f958e03b0d1defa23100c"
+  },
+  "interface-review": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review an interface diff",
+    "digest": "57dbc1dae8b3386a4dbd8ff8b359af255af4b9d3abea905a8959544a10b8efea"
+  },
+  "better-accessibility": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Check focus and accessible names",
+    "digest": "7f943812c4f3e89372fc2b094f73148dc1eb424676e8532dd57730b89016e32a"
+  },
+  "better-colors": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review semantic color tokens",
+    "digest": "9337ae0216848e5fde233e6aa101c98286d8e70b967c5bd96bde08a29436b17e"
+  },
+  "better-layout": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review layout and reading order",
+    "digest": "59599cf3087df9c28a1ada41532274704d16b23a1486288609b8943516d5be31"
+  },
+  "better-motion": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Specify a motion treatment",
+    "digest": "cb2da9e1ad468e2c3c80ec8070c0c3d1ecddd585834418cf0b45cc49e8dc82c3"
+  },
+  "better-typography": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review type scale and wrapping",
+    "digest": "b3ce4facc8a774baa5b456d1f1958e91bf4b12e489789ea4308a25dcdc9bf2b4"
+  },
+  "better-ui": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Polish surfaces and icons",
+    "digest": "6e1d613ee9f8fd03cbfb9eb321252855779e88cff2c941e18f84b31f35faaff1"
+  },
+  "better-writing": {
+    "publisher": "Jakub Krehel",
+    "source": "https://github.com/jakubkrehel/skills/tree/672ae44ace6aaed65b86cbb1e2fd6fbea0e79578",
+    "goal": "Review interface copy",
+    "digest": "4e7f745ae1f6def19da579cbaa69f19d26ce7c5200d21e7bd14eb4e88fae51ce"
+  },
+  "hallmark": {
+    "publisher": "Hassan El Mghari (Nutlope)",
+    "source": "https://github.com/Nutlope/hallmark/tree/04977e15f3dfd6ee4b74c887dac3eb52665d6c92",
+    "goal": "Restyle an existing interface",
+    "digest": "25a1ff92d925b2389e8409f42fb8ad7e033fceca8b5d1f07ed4ca4c28da53dc3"
+  },
+  "emil-design-eng": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Refine an interaction",
+    "digest": "cdbfe467e6c9a4940c3a19e795cecf1ba659378d7412e06c245c6ae49da47da6"
+  },
+  "animate": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Build one animation",
+    "digest": "4ce49ea635ec175b45552bae070ea07b2d6aa5367047994250c1c095b71c8585"
+  },
+  "animate-expo": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Build Expo motion",
+    "digest": "67e5d2ebe23b3edf52ce9d399532f2ead2bd7eff127919dd1c3bbe489b04dd4d"
+  },
+  "animation-performance": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Diagnose dropped frames",
+    "digest": "6481e7a611b54c0d1d229ac3ac516c05648e63aa79de88c0a1bdc5ae2666ab80"
+  },
+  "animation-vocabulary": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Identify an animation technique",
+    "digest": "42df33f1583483cc441fcd76693b3399148602705d2e9b8a26665d6b1951cd0b"
+  },
+  "apple-design": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Apply Apple-inspired motion on the web",
+    "digest": "7fbacf928637e136da6d475358d0639667a3637ba772f03f8e815bb4c0b86946"
+  },
+  "choreograph": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Coordinate a motion sequence",
+    "digest": "0a6802bb2fd5a3993842d48332b8ab56ae5bab369ffa8700f85f6fcff56b8478"
+  },
+  "find-animation-opportunities": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Identify useful motion opportunities",
+    "digest": "331479e0d867f90d637ef3ef1bdbbd38498d144ab493442afdfbc138abc751b4"
+  },
+  "gestures": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Design drag or swipe interactions",
+    "digest": "1928c86cce924a2a178ddd156ba5ed0f184665a1f95b549724ffb5ae703e994f"
+  },
+  "improve-animations": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Plan a codebase motion audit",
+    "digest": "632be90e04261192112571b05abd5708fbb846808a4a7780717ee206daa6c6f6"
+  },
+  "mobile-native": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Review mobile interaction behavior",
+    "digest": "705e267bc47ea61e4c6f94d121efeebdb994055f482673b8a72f4a0dd62f1968"
+  },
+  "pick-ui-library": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Choose a UI component library",
+    "digest": "db10dc6b2a0c340d873f69e35140ceb3c929e15664b33fcacd1ecb25c5574df3"
+  },
+  "remove-animations": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Simplify excessive motion",
+    "digest": "228d98a3d05637f2ff8fc2d1c2bd88c14783c8c901105cac39a7ae24a4d3e408"
+  },
+  "review-animations": {
+    "publisher": "Emil Kowalski",
+    "source": "https://github.com/emilkowalski/skills/tree/64eb3deb9a5fbfa041faf783e0bc3fd635872e9c",
+    "goal": "Review a motion change",
+    "digest": "9ceb5072ce5d5e51b07efa60817c66d06fc6492b7900b44dff5ff0f8f7bcf188"
+  }
+}
