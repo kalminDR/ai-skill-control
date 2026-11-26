@@ -9,6 +9,7 @@ import secrets
 import sqlite3
 import sys
 import threading
+from contextlib import closing, contextmanager
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlsplit
@@ -38,8 +39,11 @@ class Store:
             c.execute("CREATE TABLE IF NOT EXISTS workspace (id INTEGER PRIMARY KEY, rev INTEGER, payload TEXT)")
             c.execute("INSERT OR IGNORE INTO workspace VALUES (1,0,'{}')")
             c.execute("CREATE TABLE IF NOT EXISTS checks (id TEXT PRIMARY KEY, payload TEXT)")
+    @contextmanager
     def connect(self):
-        return sqlite3.connect(self.path,timeout=4)
+        with closing(sqlite3.connect(self.path, timeout=4)) as connection:
+            with connection:
+                yield connection
     def get(self):
         with self.connect() as c:
             rev,data=c.execute("SELECT rev,payload FROM workspace WHERE id=1").fetchone()
